@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "WIKA Airlines",
-    "currentPage": "home.html",
+    "currentPage": "notams.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 64,
+    "uniqCompNum": 71,
     "versionPublish": "4.5.4",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,8 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#2e2e2e"
+        "#2e2e2e",
+        "#865555"
       ]
     },
     "favicon": "",
@@ -7702,7 +7703,7 @@
         }
       ]
     },
-    "page16.html": {
+    "notams.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Notams",
@@ -8113,6 +8114,148 @@
           "_once": "menu",
           "_params": {},
           "_anchor": "menu1-1p"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"7\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Airline Notams</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qGV3gROr0k",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-1t"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Remarks bei IVAO-Online Flüge!</b></p><p>Bei Onlineflügen auf IVAO oder VATSIM bitte im Flugplan unter Remarks folgende Einträge verwenden: \n</p><p><span style=\"font-style: normal;\"><b>CS/Wika-Airlines // www.wika-airline.de</b></span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1y",
+          "_isUserblock": true,
+          "_cid": "qGV5kO6MGX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Events und Gruppenflüge</b>&nbsp;</p><p>Hey Liebe WIKA Piloten, \n</p><p><span style=\"font-size: 1.09rem;\">wir möchten gerne mit euch öfters zusammen als Gruppe fliegen oder bei Ivao Events ordentlich WIKA Traffic erzeugen, uns ist natürlich bewusst das nicht jeder zu jedem&nbsp;</span><span style=\"font-size: 1.09rem;\">Event Zeit und Lust hat. &nbsp;</span></p><p>Wir würden uns freuen wenn soviele wie möglich bei den folgenden Events und Touren mitmachen.</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qGV5bCC3XL",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1u"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Wir Gratulieren!</b></p><p>Wir beglückwünschen unsere Piloten des Jahres  Jakob (WKA05) und Tim Schulte-Ebert (WKA15) für die Landung des Jahres.<span style=\"font-size: 1.09rem;\">.</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1v",
+          "_isUserblock": true,
+          "_cid": "qGV5hX7S39",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>+++ Neue Liveries +++</b></p><p>Neue liveries stehen ab sofort im Downloadbereich zur Verfügung!</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1w",
+          "_isUserblock": true,
+          "_cid": "qGV5jeoAhq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            "P": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b>Tauft eure Flieger!</b></p><p>Ab sofort habt Ihr Ihr die Möglichkeit von euren verdienten vEur einen Flieger nach Wahl zu taufen. Sucht euch einen Namen (Ort, Stadt, Vornamen etc.) für euren Wunschflieger aus, schickt dazu eine Mail mit dem Namen und dem gewünschten Flieger an <a href=\"mailto:zentrale@wika-airline.de\">zentrale@wika-airline.de </a>\n</p><p>\n<span style=\"font-size: 1.09rem;\">== === === === === === === === ===&nbsp;</span></p><p><b>Kosten für die Taufe:\n&nbsp;</b></p><p><span style=\"font-size: 1.09rem;\">• <span style=\"font-style: normal;\">Airbus A320</span></span><span style=\"font-style: normal;\">&nbsp; &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.09rem;\">20000 vEur</span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.09rem;\">• Boeing: 737</span>&nbsp; &nbsp; &nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.09rem;\">20000 vEur&nbsp;</span></span></p><p><span style=\"font-style: normal;\">• Boeing 777&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; &nbsp; 33000 vEur\n</span></p><p><span style=\"font-style: normal;\">• Boeing 767</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">30000vEur\n</span></p><p><span style=\"font-style: normal;\">• Airbus A330</span>&nbsp; &nbsp;-&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">30000 vEur\n</span></p><p><span style=\"font-style: normal;\">• Boeing 747</span>&nbsp; &nbsp; &nbsp; -&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">40000vEur\n</span></p><p><span style=\"font-style: normal;\">• Dash8 Q400</span>&nbsp; &nbsp;-&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">15000 vEur\n</span></p><p><span style=\"font-style: normal;\">• DC8F</span>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">30000 vEur\n</span></p><p><span style=\"font-style: normal;\">• Boeing</span><span style=\"font-style: normal;\">&nbsp;707 </span>&nbsp; &nbsp; &nbsp;-&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">30000 vEur\n</span></p><p><span style=\"font-style: normal;\">• Cessna 172</span>&nbsp; &nbsp; &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\">5000 vEur\n</span></p><p><span style=\"font-style: normal;\">• Cirrus SR20</span>&nbsp; &nbsp; &nbsp;-&nbsp; &nbsp;&nbsp;<span style=\"font-style: normal;\">5000  vEur</span></p><p>=== === === === === === === === ===\n</p><p>\n<span style=\"font-size: 1.09rem;\">Bitte beachtet das es keinen Vorschuss von der Airline für Taufen gibt, ihr könnt eure Flieger alse erst taufen wenn Ihr das Geld verdient habt!</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1x",
+          "_isUserblock": true,
+          "_cid": "qGV5k9YgZq",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }
