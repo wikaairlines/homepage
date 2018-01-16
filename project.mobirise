@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WIKA Airlines",
-    "currentPage": "home.html",
+    "currentPage": "notams.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 71,
     "versionPublish": "4.5.4",
@@ -7705,7 +7705,7 @@
     },
     "notams.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "Notams",
         "order": 1
       },
