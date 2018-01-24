@@ -1,3 +1,13 @@
-User-agent: *
-Disallow: /cgi-bin
+# https://wikaairlines.github.io/homepage/robots.txt
 
+User-agent: scooter
+Disallow: /
+
+User-agent: wget
+User-agent: webzip
+Disallow:
+
+User-agent: *
+Disallow: /news/
+Disallow: /radio.html
+Disallow: /temp
