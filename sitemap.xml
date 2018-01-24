@@ -50,4 +50,7 @@
 	<url>
 		<loc>http://wika-airline.de/notams.html</loc>
 	</url>
+	<url>
+		<loc>http://wika-airline.de/error.html</loc>
+	</url>
 </urlset>
