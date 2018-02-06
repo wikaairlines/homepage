@@ -3,7 +3,7 @@
     "name": "WIKA Airlines VA",
     "currentPage": "WIKA_Carrer.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 163,
+    "uniqCompNum": 167,
     "versionPublish": "4.5.4",
     "theme": {
       "name": "mobirise4",
@@ -5056,6 +5056,44 @@
           "_anchor": "content1-4g",
           "_isUserblock": true,
           "_cid": "qIUQn9imdS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <b> Was ist die WIKA - Airlines?</b></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4k",
+          "_isUserblock": true,
+          "_cid": "qIUXlpmW5F",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline=\"\" mbr-article=\"\"><p>Die WIKA-Airlines  ist eine virtuelle Airline, die in einem Flugsimulator FSX/P3D/XPLANE online auf IVAO und VATSIM Flüge simuliert.\n&nbsp;<span style=\"font-size: 1rem;\">Unser oberstes Gebot ist der Spaß an der Sache und am Hobby, nix muss vieles kann.&nbsp;</span><span style=\"font-size: 1rem;\">WIKA-Airlines hat viel vor und dafür brauchen wir DICH!&nbsp;</span><span style=\"font-size: 1rem;\">Die WIKA-Airlines, steckt noch in den Kinderschuhen, gegründet von IVAO Piloten und Lotsen.&nbsp;</span><span style=\"font-size: 1rem;\">Nur wenn viele mit uns zusammen Testen  und uns Feedback und Anregungen geben, kann die WIKA-Airlines einen erfolgreichen Weg einschlagen. &nbsp;</span><span style=\"font-size: 1rem;\">Also keine Scheu, registriere dich noch heute und werde Pilot bei einer jungen dynamischen Airline.</span></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4m",
+          "_isUserblock": true,
+          "_cid": "qIUXpKEnrs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
