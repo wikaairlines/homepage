@@ -10395,7 +10395,7 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_name": "content1",
@@ -10521,7 +10521,7 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "text-align": "right"
+              "text-align": "left"
             }
           },
           "_name": "content1",
