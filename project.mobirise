@@ -3,7 +3,7 @@
     "name": "WIKA Airlines VA",
     "currentPage": "wika_carrer.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 174,
+    "uniqCompNum": 177,
     "versionPublish": "4.5.4",
     "theme": {
       "name": "mobirise4",
@@ -10395,7 +10395,7 @@
               "color": "#767676"
             },
             ".mbr-text": {
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_name": "content1",
@@ -10519,16 +10519,13 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
-            },
-            ".mbr-text": {
-              "text-align": "left"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <b>&nbsp;\n</b><b style=\"font-size: 1.5rem;\">Sind wir die richtige Airline für dich???</b></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-4r",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Sind wir die richtige Airline für dich???</b></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-4w",
           "_isUserblock": true,
-          "_cid": "qIV6MWqxr7",
+          "_cid": "qIVl0CyjDV",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
