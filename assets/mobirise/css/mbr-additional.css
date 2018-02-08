@@ -1837,6 +1837,64 @@ body {
 .cid-qGm7aWuuTR .mbr-author-name DIV {
   color: #767676;
 }
+.cid-qGxVRC1oTT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qGxVRC1oTT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qGxVRC1oTT .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-qGxVRC1oTT .mbr-text {
+  color: #767676;
+}
+.cid-qGxVRC1oTT .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-qGxVRC1oTT .mbr-author-name {
+  color: #767676;
+}
+.cid-qGxVRC1oTT .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-qGxVRC1oTT .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-qGxVRC1oTT .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-qGxVRC1oTT .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-qGxVRC1oTT .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-qGxVRC1oTT .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-qGxYpCHdcy {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1953,6 +2011,64 @@ body {
     height: auto !important;
   }
 }
+.cid-qGmacZb3vB {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qGmacZb3vB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qGmacZb3vB .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-qGmacZb3vB .mbr-text {
+  color: #767676;
+}
+.cid-qGmacZb3vB .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-qGmacZb3vB .mbr-author-name {
+  color: #767676;
+}
+.cid-qGmacZb3vB .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-qGmacZb3vB .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-qGmacZb3vB .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-qGmacZb3vB .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-qGmacZb3vB .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-qGmacZb3vB .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-qGxTOYJmIY {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2011,96 +2127,38 @@ body {
     height: auto !important;
   }
 }
-.cid-qGxVRC1oTT {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qGxVRC1oTT .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qGxVRC1oTT .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-qGxVRC1oTT .mbr-text {
-  color: #767676;
-}
-.cid-qGxVRC1oTT .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-qGxVRC1oTT .mbr-author-name {
-  color: #767676;
-}
-.cid-qGxVRC1oTT .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-qGxVRC1oTT .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-qGxVRC1oTT .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-qGxVRC1oTT .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-qGxVRC1oTT .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-qGxVRC1oTT .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
-.cid-qGmacZb3vB {
+.cid-qJ6Q8PJpQg {
   padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qGmacZb3vB .mbr-section-subtitle {
+.cid-qJ6Q8PJpQg .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qGmacZb3vB .media-container-row {
+.cid-qJ6Q8PJpQg .media-container-row {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-qGmacZb3vB .mbr-text {
+.cid-qJ6Q8PJpQg .mbr-text {
   color: #767676;
 }
-.cid-qGmacZb3vB .mbr-author-desc {
+.cid-qJ6Q8PJpQg .mbr-author-desc {
   display: block;
   color: #767676;
 }
-.cid-qGmacZb3vB .mbr-author-name {
+.cid-qJ6Q8PJpQg .mbr-author-name {
   color: #767676;
 }
-.cid-qGmacZb3vB .mbr-testimonial .panel-item {
+.cid-qJ6Q8PJpQg .mbr-testimonial .panel-item {
   background-color: #ffffff;
 }
-.cid-qGmacZb3vB .mbr-testimonial .card-block {
+.cid-qJ6Q8PJpQg .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-qGmacZb3vB .mbr-testimonial .card-block .testimonial-photo {
+.cid-qJ6Q8PJpQg .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
   width: 120px;
   height: 120px;
@@ -2108,12 +2166,12 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
-.cid-qGmacZb3vB .mbr-testimonial .card-block .testimonial-photo img {
+.cid-qJ6Q8PJpQg .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-qGmacZb3vB .mbr-testimonial .card-footer {
+.cid-qJ6Q8PJpQg .mbr-testimonial .card-footer {
   padding-bottom: 2.4rem;
   border-top: 0;
   padding-top: 1rem;
@@ -2122,7 +2180,7 @@ body {
   background: none;
 }
 @media (max-width: 300px) {
-  .cid-qGmacZb3vB .testimonial-photo {
+  .cid-qJ6Q8PJpQg .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
